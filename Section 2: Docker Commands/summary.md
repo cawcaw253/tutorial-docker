@@ -3,7 +3,7 @@
 - docker run `<image>` :
   running docker image, if images not exists pull image and running it
   - -d
-    running container and back to prompt
+    detached mode, running container and back to prompt
 - docker ps :
   list containers
   - -a
